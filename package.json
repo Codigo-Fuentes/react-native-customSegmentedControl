@@ -1,5 +1,5 @@
 {
-  "name": "react-native-customsegmentedcontrol",
+  "name": "@andariotrueno/react-native-customsegmentedcontrol",
   "version": "0.0.1",
   "description": "custom segmented control",
   "main": "build/index.js",
